@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UmengDemo</string>
+    <string name="app_name2">命令行</string>
+    <string name="app_name3">重启设备</string>
+    <string name="app_name4">百度定位</string>
+    <string name="app_name5">第二个界面</string>
+    <string name="app_name6">热词界面</string>
+    <string name="app_name7">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

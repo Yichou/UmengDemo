@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="edroid_theme_base" parent="android:Theme.Material.Light.DarkActionBar"></style>
+    <style name="edroid_theme_dialog" parent="android:Theme.Material.Light.Dialog"></style>
+
+</resources>
