@@ -142,21 +142,10 @@
         </activity>
 
         <!-- Caution! Do not change this app key. It is only for demo usage. -->
-        <meta-data
-            android:name="UMENG_APPKEY5"
-            android:value="5329a6b756240b0ce2044660" >
-        </meta-data>
-        <meta-data
-            android:name="UMENG_APPKEY3"
-            android:value="53db6368fd98c5e44e0005ea" >
-        </meta-data>
+        
         <meta-data
             android:name="UMENG_APPKEY"
-            android:value="5378b3d956240b3dd40c5f8a" >
-        </meta-data>
-        <meta-data
-            android:name="UMENG_APPKEY1"
-            android:value="531ef09256240b7b2c01440d" >
+            android:value="???" >
         </meta-data>
         <meta-data
             android:name="UMENG_CHANNEL"
